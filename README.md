@@ -22,7 +22,8 @@ Use these steps to ensure Companion is running this modified module build.
 1. Open Companion.
 2. Go to Settings.
 3. Enable Developer Mode (or the option that exposes dev module versions).
-4. Restart Companion.
+4. Point to the folder with the module in it
+5. Restart Companion.
 
 If you do not see a Developer Mode toggle, continue with the steps below and use the Module Version selector in the Add Module dialog.
 

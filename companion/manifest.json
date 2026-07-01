@@ -1,0 +1,26 @@
+{
+  "id": "audiotechnica-discussionsystem",
+  "name": "DEV v1 AT",
+  "shortname": "DEV v1 AT",
+  "description": "Controls Audio Technical Discussion Systems",
+  "version": "1.0.3",
+  "license": "MIT",
+  "repository": "git+https://github.com/bitfocus/companion-module-audiotechnica-discussionsystem.git",
+  "bugs": "https://github.com/bitfocus/companion-module-audiotechnica-discussionsystem/issues",
+  "maintainers": [
+    {
+      "name": "Joseph Adams",
+      "email": "josephdadams@gmail.com"
+    }
+  ],
+  "legacyIds": [],
+  "runtime": {
+    "type": "node18",
+    "api": "nodejs-ipc",
+    "apiVersion": "0.0.0",
+    "entrypoint": "../index.js"
+  },
+  "manufacturer": "DEV v1 AT",
+  "products": ["AT-UC50", "AT-UCIR"],
+  "keywords": ["Audio", "microphone", "conference"]
+}

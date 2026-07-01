@@ -13,8 +13,6 @@ The controller target is the ATUC-50CU. The unit-type selections in actions refe
 ## What's Different From The Original Module
 
 - Most original actions were removed.
-- Most original feedbacks were removed.
-- Most original variables were removed.
 - Polling is focused on talk-state data for reliable ON/OFF button feedback.
 
 ## Companion DEV Mode / Dev Version Workflow

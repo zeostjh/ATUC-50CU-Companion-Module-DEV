@@ -15,7 +15,18 @@ This is a heavily modified DEV fork of the original Audio-Technica Companion mod
 
 ## Companion DEV Mode / Dev Version Workflow
 
-Use these steps to ensure Companion is running this modified module build:
+Use these steps to ensure Companion is running this modified module build.
+
+### 1. Enter Companion Dev Mode First
+
+1. Open Companion.
+2. Go to Settings.
+3. Enable Developer Mode (or the option that exposes dev module versions).
+4. Restart Companion.
+
+If you do not see a Developer Mode toggle, continue with the steps below and use the Module Version selector in the Add Module dialog.
+
+### 2. Load This Module As Dev Version
 
 1. Open Companion and go to the modules page.
 2. Refresh the modules list.

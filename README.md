@@ -8,8 +8,6 @@ This is a heavily modified DEV fork of the original Audio-Technica Companion mod
 - MIC OFF
 - Button color feedback for TALK ON/OFF status
 
-The controller target is the ATUC-50CU. The unit-type selections in actions refer to microphone unit types behind the controller (DU/INT/IU/IRDU/DUa), not the controller itself.
-
 ## What's Different From The Original Module
 
 - Most original actions were removed.
